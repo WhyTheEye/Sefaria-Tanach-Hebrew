@@ -1,0 +1,23 @@
+{
+  "word": {
+    "min": 3,
+    "max": 1640,
+    "lowest_examples": [
+      "בא",
+      "אב"
+    ],
+    "highest_examples": [
+      "לארתחששתא"
+    ]
+  },
+  "verse": {
+    "min": 160,
+    "max": 13639,
+    "lowest_examples": [
+      "Nehemia 10:16"
+    ],
+    "highest_examples": [
+      "II Chronicles 22:11"
+    ]
+  }
+}
